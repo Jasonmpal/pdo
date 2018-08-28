@@ -5,7 +5,7 @@
  *
  */
 
-$host       = "aa16glunvbqnu58.ctogpmoawefq.us-east-1.rds.amazonaws.com";
+$host       = "devdb.ctogpmoawefq.us-east-1.rds.amazonaws.com";
 $username   = "JPalatucci";
 $password   = "PolySly87";
 $dbname     = "DemoTEST";
